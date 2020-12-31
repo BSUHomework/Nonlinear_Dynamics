@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.2.10)  29 DEC 2020 22:51
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.2.10)  1 JAN 2021 00:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/soliva/Desktop/Homework/MMOCS/main_homework_MMOCS
-(/Users/soliva/Desktop/Homework/MMOCS/main_homework_MMOCS.tex
+**/Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/main_homework_MMOCS
+(/Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/main_homework_MMOCS.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -155,37 +155,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 20.
-File: /Users/soliva/Desktop/Homework/MMOCS/221.pdf Graphic file (type pdf)
-<use /Users/soliva/Desktop/Homework/MMOCS/221.pdf>
-File: /Users/soliva/Desktop/Homework/MMOCS/223.pdf Graphic file (type pdf)
-<use /Users/soliva/Desktop/Homework/MMOCS/223.pdf>
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/221.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/221.pdf>
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/223.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/223.pdf>
  [1
 
 ]
-File: /Users/soliva/Desktop/Homework/MMOCS/228question.png Graphic file (type bmp)
-</Users/soliva/Desktop/Homework/MMOCS/228question.png>
-File: /Users/soliva/Desktop/Homework/MMOCS/228.jpg Graphic file (type bmp)
-</Users/soliva/Desktop/Homework/MMOCS/228.jpg>
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/228question.png Graphic file (type bmp)
+</Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/228question.png>
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/228.jpg Graphic file (type bmp)
+</Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/228.jpg>
  [2]
-File: /Users/soliva/Desktop/Homework/MMOCS/241.pdf Graphic file (type pdf)
-<use /Users/soliva/Desktop/Homework/MMOCS/241.pdf>
-File: /Users/soliva/Desktop/Homework/MMOCS/243.pdf Graphic file (type pdf)
-<use /Users/soliva/Desktop/Homework/MMOCS/243.pdf>
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/241.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/241.pdf>
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/243.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/243.pdf>
  [3]
-File: /Users/soliva/Desktop/Homework/MMOCS/411.pdf Graphic file (type pdf)
-<use /Users/soliva/Desktop/Homework/MMOCS/411.pdf>
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/411.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/411.pdf>
  [4]
 Missing character: There is no − in font cmr10!
 Missing character: There is no − in font cmr10!
- [5] (./main_homework_MMOCS.aux) )
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/323.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/323.pdf>
+ [5] [6] (./main_homework_MMOCS.aux) )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 2019 strings out of 492916
- 33192 string characters out of 6133345
+ 2023 strings out of 492916
+ 33981 string characters out of 6133345
  94625 words of memory out of 5000000
- 6070 multiletter control sequences out of 15000+600000
+ 6073 multiletter control sequences out of 15000+600000
  3656 words of font info for 16 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 42i,8n,38p,412b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,8n,38p,435b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main_homework_MMOCS.pdf (5 pages).
+Output written on main_homework_MMOCS.pdf (6 pages).
