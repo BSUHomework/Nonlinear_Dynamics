@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.2.10)  1 JAN 2021 18:13
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.2.10)  9 JAN 2021 01:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -190,15 +190,33 @@ File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/345.pdf Graphi
  [8]
 File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/346.pdf Graphic file (type pdf)
 <use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/346.pdf>
- [9] [10] (./main_homework_MMOCS.aux) )
+ [9]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/517.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/517.pdf>
+ [10]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/523.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/523.pdf>
+ [11]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/525.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/525.pdf>
+ [12]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/534.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/534.pdf>
+ [13]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/631.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/631.pdf>
+ [14]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/642.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/642.pdf>
+ [15] [16] (./main_homework_MMOCS.aux) )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 2035 strings out of 492916
- 34692 string characters out of 6133345
+ 2059 strings out of 492916
+ 36114 string characters out of 6133345
  95625 words of memory out of 5000000
- 6082 multiletter control sequences out of 15000+600000
+ 6100 multiletter control sequences out of 15000+600000
  3656 words of font info for 16 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  42i,8n,38p,435b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main_homework_MMOCS.pdf (10 pages).
+Output written on main_homework_MMOCS.pdf (16 pages).
