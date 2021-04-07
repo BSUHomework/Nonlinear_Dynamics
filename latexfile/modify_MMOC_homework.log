@@ -1,0 +1,205 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.2.10)  16 JAN 2021 18:24
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/modify_MMOC_homework
+(/Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/modify_MMOC_homework.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)))) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+
+Package epstopdf Warning: Drivers other than `pdftex' and `luatex' are not supported.
+
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box27
+\@float@everytoks=\toks16
+\@floatcapt=\box28
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen105
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen106
+\subfiglabelskip=\skip46
+\c@subfigure=\count89
+\c@lofdepth=\count90
+\c@subtable=\count91
+\c@lotdepth=\count92
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption2.sty
+Package: caption2 2015/09/15 v2.2-100 Customising captions (AR)
+
+
+Package caption2 Warning: ****************************************************
+(caption2)                THIS PACKAGE IS OBSOLETE:
+(caption2)                This package attempts to provide an `caption2'
+(caption2)                package v2.0/2.1 author environment so that OLD
+(caption2)                documents can be successfully processed. It should
+(caption2)                NOT be used for NEW documents! New documents should
+(caption2)                use the regular `caption' package v3.x instead.
+(caption2)                ****************************************************
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen107
+\captionmargin@=\dimen108
+\captionwidth=\dimen109
+\caption@tempdima=\dimen110
+\caption@indent=\dimen111
+\caption@parindent=\dimen112
+\caption@hangindent=\dimen113
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input line 218.
+\captionlinewidth=\dimen114
+\realcaptionwidth=\dimen115
+Package caption2 Info: float package v1.2 (or newer) detected on input line 327.
+Package caption2 Info: subfigure package v2.1 (or newer) detected on input line 446.
+\subfigcapwidth=\dimen116
+\subcapindent=\dimen117
+) (./modify_MMOC_homework.aux)
+\openout1 = `modify_MMOC_homework.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m221.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m221.pdf>
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m228.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m228.pdf>
+ [1
+
+]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m243.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m243.pdf>
+ [2]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m323.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m323.pdf>
+ [3]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m346.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m346.pdf>
+ [4]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m517.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m517.pdf>
+ [5]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m523.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m523.pdf>
+ [6]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m525.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m525.pdf>
+ [7]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m534.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m534.pdf>
+ [8]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m631.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m631.pdf>
+ [9]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/633.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/633.pdf>
+ [10]
+File: /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m642.pdf Graphic file (type pdf)
+<use /Users/soliva/Desktop/Homework/Nonlinear_Dynamics/latexfile/m642.pdf>
+ [11] [12] (./modify_MMOC_homework.aux) )
+(\end occurred when \ifx on line 161 was incomplete) 
+Here is how much of TeX's memory you used:
+ 2037 strings out of 492916
+ 34974 string characters out of 6133345
+ 94625 words of memory out of 5000000
+ 6085 multiletter control sequences out of 15000+600000
+ 3656 words of font info for 16 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 42i,8n,38p,388b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on modify_MMOC_homework.pdf (12 pages).
